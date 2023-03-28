@@ -1,4 +1,7 @@
 <?php
-$a ="Hello!";
-echo $a;
+$age =20;
+$test ="テスト";
+echo $age;
+echo "\n";
+echo $test;
 ?>
